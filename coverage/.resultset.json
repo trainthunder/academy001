@@ -1,0 +1,135 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/train/Documents/practice/practice_project/academy001/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/helpers/quests_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/controllers/quests_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/models/quest.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/train/Documents/practice/practice_project/academy001/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      }
+    },
+    "timestamp": 1755614785
+  }
+}
